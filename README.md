@@ -42,22 +42,12 @@ Turn raw recruitment data into **actionable insights** for stakeholders.
 | Funnel | How do interviews turn into hires? | Conversion funnel, lead times, main rejection/dropout reasons |
 | Hires | Where do our hires come from? | Hires by education, skills, division, location, sourcing channel |
 
-### 2. AI-Powered CV Information Extraction — *AI Engineer*
-
-Design and build a solution that **automatically extracts key information from CVs** to pre-fill candidate profiles in the recruitment platform (ATS), replacing a slow and repetitive manual process.
-
-- Document processing (PDF CVs → structured data)
-- LLM-based information extraction with a defined output schema
-- Data validation and handling of ambiguous / missing information
-- Evaluation protocol to measure extraction accuracy and limit errors
-- Focus on reliability, security and compliance (personal data)
-
-### 3. Operational Support
+### 2. Operational Support
 
 - Structuring candidate data from CVs into the recruitment platform — hands-on work that provided the domain knowledge and edge cases used to design the automation
 - Ad-hoc data analyses for recruitment teams
 
-### 4. Candidate–Job Matching — *Exploratory*
+### 3. Candidate–Job Matching — *Exploratory*
 
 Potential extension: matching candidate profiles with open positions. Scope to be defined.
 
