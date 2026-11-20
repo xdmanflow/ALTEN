@@ -1,4 +1,4 @@
-# Data Analyst & AI Engineering Intern at ALTEN Toulouse
+# Data Analyst & AI Engineering Intern at ALTEN France
 
 > Tracking repo for my 20-week engineering internship within ALTEN's Recruitment department (Toulouse), combining **recruitment data analysis** and the **design of an AI-powered automation solutions for ALTEN**.
 
@@ -108,7 +108,7 @@ Potential extension: matching candidate profiles with open positions. Scope to b
 ## Repo Structure
 
 ```
-ALTEN-2026-2027/
+ALTEN/
 ├── 01_data-analysis/
 │   ├── docs/                  # Methodology, KPI definitions, data dictionary (generic)
 │   ├── notebooks/             # Analysis notebooks — synthetic/anonymized data only
