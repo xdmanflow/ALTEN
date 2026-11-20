@@ -2,7 +2,7 @@
 
 > Tracking repo for my 20-week engineering internship within ALTEN's Recruitment department (Toulouse), combining **recruitment data analysis** and the **design of an AI-powered automation solutions for ALTEN**.
 
-> ⚠️ **Confidentiality:** this repository contains **no company data, no candidate information, and no internal documents**. Only material explicitly authorized by ALTEN (sanitized, anonymized, or synthetic) is published here.
+> ⚠️ **Confidentiality:** this repository contains **no company data, no candidate information, and no internal documents**. Only material explicitly authorized by ALTEN (sanitized, anonymized, or synthetic) is published.
 
 ---
 
