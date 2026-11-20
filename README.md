@@ -42,14 +42,10 @@ Turn raw recruitment data into **actionable insights** for stakeholders.
 | Funnel | How do interviews turn into hires? | Conversion funnel, lead times, main rejection/dropout reasons |
 | Hires | Where do our hires come from? | Hires by education, skills, division, location, sourcing channel |
 
-### 2. Operational Support
+### 2. Operational Support for ALTEN recruiters
 
 - Structuring candidate data from CVs into the recruitment platform — hands-on work that provided the domain knowledge and edge cases used to design the automation
 - Ad-hoc data analyses for recruitment teams
-
-### 3. Candidate–Job Matching — *Exploratory*
-
-Potential extension: matching candidate profiles with open positions. Scope to be defined.
 
 ---
 
